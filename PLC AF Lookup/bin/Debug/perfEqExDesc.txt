@@ -1,0 +1,20 @@
+{
+  "Scale.Bill.FTLD.1": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "Value": "Event=FTLD1.Bill.Test5, 'FTLD1.Bill.Test5' * 100"
+    }
+  },
+  "Scale.Bill.FTLD.2": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "Value": "Event=FTLD1.Bill.Test5, 'FTLD1.Bill.Test5' * 'FTLD1.Bill.Test' + 'FTLD1.Bill.Test2'"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "FTLD1.Bill.Test5": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "TotalHits": 2,
+      "Links": {
+        "Next": "https://vmpisrv1/piwebapi/search/query?q=pointsource%3AC%20AND%20exdesc%3A%2A%27FTLD1.Bill.Test5%27%2A&fields=name%3Bwebid&count=100&start=100",
+        "First": "https://vmpisrv1/piwebapi/search/query?q=pointsource%3AC%20AND%20exdesc%3A%2A%27FTLD1.Bill.Test5%27%2A&fields=name%3Bwebid&count=100",
+        "Last": "https://vmpisrv1/piwebapi/search/query?q=pointsource%3AC%20AND%20exdesc%3A%2A%27FTLD1.Bill.Test5%27%2A&fields=name%3Bwebid&count=100&start=0"
+      },
+      "Errors": [],
+      "Items": [
+        {
+          "Name": "Scale.Bill.FTLD.1",
+          "WebId": "F1DPOHtUGYfYEEC_YEjdTt9sqg5QEAAAVk1QSVNSVjFcU0NBTEUuQklMTC5GVExELjE",
+          "Score": 6.320837
+        },
+        {
+          "Name": "Scale.Bill.FTLD.2",
+          "WebId": "F1DPOHtUGYfYEEC_YEjdTt9sqg5gEAAAVk1QSVNSVjFcU0NBTEUuQklMTC5GVExELjI",
+          "Score": 6.057469
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\bin\Debug\PLC AF Lookup.exe.config
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\bin\Debug\PLC AF Lookup.exe
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\bin\Debug\PLC AF Lookup.pdb
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\obj\Debug\PLC_AF_Lookup.Form1.resources
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\obj\Debug\PLC_AF_Lookup.Properties.Resources.resources
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\obj\Debug\PLC AF Lookup.csproj.GenerateResource.cache
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\obj\Debug\PLC AF Lookup.csproj.CoreCompileInputs.cache
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\obj\Debug\PLC AF Lookup.csproj.CopyComplete
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\obj\Debug\PLC AF Lookup.exe
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\obj\Debug\PLC AF Lookup.pdb
+C:\Users\william.busch\Documents\_PI Web API Class\PLC AF Lookup\PLC AF Lookup\obj\Debug\PLC AF Lookup.csprojResolveAssemblyReference.cache

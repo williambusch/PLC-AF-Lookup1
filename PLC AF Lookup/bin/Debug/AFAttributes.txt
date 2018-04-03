@@ -1,0 +1,66 @@
+{
+  "FTLD1.Bill.Test5": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "Links": {
+        "Next": "https://vmpisrv1/piwebapi/search/query?q=attributevalue%3AFTLD1.Bill.Test5&fields=paths%3Bname%3Battributes&count=100&start=100",
+        "First": "https://vmpisrv1/piwebapi/search/query?q=attributevalue%3AFTLD1.Bill.Test5&fields=paths%3Bname%3Battributes&count=100",
+        "Last": "https://vmpisrv1/piwebapi/search/query?q=attributevalue%3AFTLD1.Bill.Test5&fields=paths%3Bname%3Battributes&count=100&start=0"
+      },
+      "Errors": [],
+      "Items": []
+    }
+  },
+  "Scale.Bill.FTLD.2": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "Links": {
+        "Next": "https://vmpisrv1/piwebapi/search/query?q=attributevalue%3AScale.Bill.FTLD.2&fields=paths%3Bname%3Battributes&count=100&start=100",
+        "First": "https://vmpisrv1/piwebapi/search/query?q=attributevalue%3AScale.Bill.FTLD.2&fields=paths%3Bname%3Battributes&count=100",
+        "Last": "https://vmpisrv1/piwebapi/search/query?q=attributevalue%3AScale.Bill.FTLD.2&fields=paths%3Bname%3Battributes&count=100&start=0"
+      },
+      "Errors": [],
+      "Items": []
+    }
+  },
+  "Scale.Bill.FTLD.1": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "TotalHits": 1,
+      "Links": {
+        "Next": "https://vmpisrv1/piwebapi/search/query?q=attributevalue%3AScale.Bill.FTLD.1&fields=paths%3Bname%3Battributes&count=100&start=100",
+        "First": "https://vmpisrv1/piwebapi/search/query?q=attributevalue%3AScale.Bill.FTLD.1&fields=paths%3Bname%3Battributes&count=100",
+        "Last": "https://vmpisrv1/piwebapi/search/query?q=attributevalue%3AScale.Bill.FTLD.1&fields=paths%3Bname%3Battributes&count=100&start=0"
+      },
+      "Errors": [],
+      "Items": [
+        {
+          "Name": "Captain America",
+          "Paths": [
+            "\\\\VMPISRV1\\Bills Database\\MachineA\\Captain America"
+          ],
+          "Attributes": [
+            {
+              "Name": "Vibranium Shield",
+              "Description": "",
+              "DataType": "System.Single",
+              "Value": "Scale.Bill.FTLD.1",
+              "Categories": [],
+              "WebId": "F1AbExqgy_6zXA0-5gO-_MvsUEgHf3wEYIw6BGGwABQVrB6iwaOW-5J9gpkyGcn2c0CDXcAVk1QSVNSVjFcQklMTFMgREFUQUJBU0VcTUFDSElORUFcQ0FQVEFJTiBBTUVSSUNBfFZJQlJBTklVTSBTSElFTEQ"
+            }
+          ],
+          "Score": 6.652489
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "FTLD1.Bill.Test2": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "Value": "SLB/HST/DS1:RSLE:[PLC]CurrentDateTime"
+    }
+  },
+  "FTLD1.Bill.Test3": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "Value": "SLB/HST/DS1:RSLE:[ABC]N234:0"
+    }
+  },
+  "FTLD1.Bill.Test": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "Value": "SLB/HST/DS1:RSLE:[PLC]B13:3/0"
+    }
+  },
+  "FTLD1.Bill.Test5": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "Value": "SLB/HST/DS1:RSLE:[OSI]Faults[3].0"
+    }
+  },
+  "FTLD1.Bill.Test4": {
+    "Status": 200,
+    "Headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "Content": {
+      "Value": "SLB/HST/DS1:RSLE:[Bill]Alarms[3]"
+    }
+  }
+}
